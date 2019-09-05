@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\CalculatorMSTest\\CalculatorMSTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\CalculatorMSTest\\CalculatorMSTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\CalculatorMSTest\\CalculatorMSTest.csproj",
+        "projectName": "CalculatorMSTest",
+        "projectPath": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\CalculatorMSTest\\CalculatorMSTest.csproj",
+        "packagesPath": "C:\\Users\\Cosmin Balosache\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\CalculatorMSTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Cosmin Balosache\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\Calculator\\Calculator.csproj": {
+                "projectPath": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\Calculator\\Calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\Calculator\\Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\Cosmin Balosache\\source\\repos\\TestDrivenDevelopment\\Calculator\\Calculator.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe.config
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.exe
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\TestDrivenDevelopment.pdb
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.exe
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\TestDrivenDevelopment.pdb

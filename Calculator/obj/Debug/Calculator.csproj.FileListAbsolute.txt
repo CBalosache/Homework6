@@ -1,0 +1,7 @@
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\bin\Debug\Calculator.exe
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.exe
+C:\Users\Cosmin Balosache\source\repos\TestDrivenDevelopment\Calculator\obj\Debug\Calculator.pdb
